@@ -1,11 +1,5 @@
 = Лабораторна робота №2
 Класи. Типи зв'язків.
-:toc: left
-:toclevels: 3
-:sectnums:
-:source-highlighter: rouge
-:icons: font
-:lab1-repo: https://github.com/YOUR_NICK/YOUR_LAB1_REPO
 
 == Мета роботи
 
